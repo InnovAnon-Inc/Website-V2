@@ -35,10 +35,23 @@ jobs:
       with:
         python-version: ${{ matrix.python }}
     - name: Install test dependencies
-      run: python -m pip install -U tox
+      #run: python -m pip install -U tox
+      run: pip install -U pytest
+
+    # TODO this needs to run in background
+    #- name: Run
+    #  run:
+    #    pipenv run python asgi.py
+
     - name: Test
-      run: python -m tox -e py
-        #run: tox
+      #run: python -m tox -e py
+      #run: tox
+      run:
+        pipenv run python asgi.py &
+        pid=$?
+        pytest -v tavern_tests/
+        kill $pid
+        wait $pid
         
     # Service containers to run with `container-job`
     services:
