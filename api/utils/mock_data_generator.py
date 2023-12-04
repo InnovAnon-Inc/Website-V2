@@ -1,10 +1,10 @@
-from api.public.hero.models import Hero
+from api.public.user.models import User
 from api.public.team.models import Team
 from api.database import engine
 from sqlmodel import Session
 
 
-def create_heroes_and_teams():
+def create_users_and_teams():
     with Session(engine) as session:
         team_preventers = Team(name="Preventers", headquarters="Sharp Tower")
         team_z_force = Team(name="Z-Force", headquarters="Sister Margaret’s Bar")
@@ -12,49 +12,49 @@ def create_heroes_and_teams():
             name="Wonderful-League", headquarters="Fortress of Solitude"
         )
 
-        hero_deadpond = Hero(
+        user_deadpond = User(
             name="Deadpond",
             secret_name="Dive Wilson",
             age=24,
             teams=[team_z_force, team_preventers],
         )
-        hero_rusty_man = Hero(
+        user_rusty_man = User(
             name="Rusty-Man",
             secret_name="Tommy Sharp",
             age=48,
             teams=[team_preventers],
         )
-        hero_spider_boy = Hero(
+        user_spider_boy = User(
             name="Spider-Boy",
             secret_name="Pedro Parqueador",
             age=37,
             teams=[team_preventers],
         )
-        hero_super_good_boy = Hero(
+        user_super_good_boy = User(
             name="Super-Good-Boy",
             secret_name="John Goodman",
             age=30,
             teams=[wornderful_league, team_z_force],
         )
 
-        session.add(hero_deadpond)
-        session.add(hero_rusty_man)
-        session.add(hero_spider_boy)
-        session.add(hero_super_good_boy)
+        session.add(user_deadpond)
+        session.add(user_rusty_man)
+        session.add(user_spider_boy)
+        session.add(user_super_good_boy)
         session.commit()
 
-        session.refresh(hero_deadpond)
-        session.refresh(hero_rusty_man)
-        session.refresh(hero_spider_boy)
-        session.refresh(hero_super_good_boy)
+        session.refresh(user_deadpond)
+        session.refresh(user_rusty_man)
+        session.refresh(user_spider_boy)
+        session.refresh(user_super_good_boy)
 
         print("\n=========== MOCK DATA CREATED ===========\n")
-        print("Deadpond:", hero_deadpond)
-        print("Deadpond teams:", hero_deadpond.teams)
-        print("Rusty-Man:", hero_rusty_man)
-        print("Rusty-Man Teams:", hero_rusty_man.teams)
-        print("Spider-Boy:", hero_spider_boy)
-        print("Spider-Boy Teams:", hero_spider_boy.teams)
-        print("Super-Good-Boy:", hero_super_good_boy)
-        print("Super-Good-Boy Teams:", hero_super_good_boy.teams)
+        print("Deadpond:", user_deadpond)
+        print("Deadpond teams:", user_deadpond.teams)
+        print("Rusty-Man:", user_rusty_man)
+        print("Rusty-Man Teams:", user_rusty_man.teams)
+        print("Spider-Boy:", user_spider_boy)
+        print("Spider-Boy Teams:", user_spider_boy.teams)
+        print("Super-Good-Boy:", user_super_good_boy)
+        print("Super-Good-Boy Teams:", user_super_good_boy.teams)
         print("\n===========================================\n")

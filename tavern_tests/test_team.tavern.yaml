@@ -43,7 +43,7 @@ stages:
       status_code: 200
       json: []
   
-  - name: Update a Teame
+  - name: Update a Team
     request:
       method: PATCH 
       url: "{host}/teams/1"
@@ -57,7 +57,7 @@ stages:
         name: "wonderful league"
         headquarters: "frozen tundra"
 
-  - name: Delete a Teame
+  - name: Delete a Team
     request:
       method: DELETE 
       url: "{host}/teams/1"

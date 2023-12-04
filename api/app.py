@@ -3,7 +3,7 @@ from fastapi import FastAPI
 from pydantic_settings import BaseSettings
 from api.database import create_db_and_tables
 from api.public import api as public_api
-from api.utils.mock_data_generator import create_heroes_and_teams
+from api.utils.mock_data_generator import create_users_and_teams
 
 
 def create_app(settings: BaseSettings):
@@ -17,7 +17,7 @@ def create_app(settings: BaseSettings):
     @app.on_event("startup")
     def on_starup():
         create_db_and_tables()
-        create_heroes_and_teams()
+        create_users_and_teams()
 
     app.include_router(public_api)
 

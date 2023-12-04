@@ -2,10 +2,10 @@ from typing import Optional, List
 from sqlmodel import Field, Relationship, SQLModel
 
 from api.public.team.models import Team
-from api.utils.generic_models import HeroTeamLink
+from api.utils.generic_models import UserTeamLink
 
 
-class HeroBase(SQLModel):
+class UserBase(SQLModel):
     name: str
     secret_name: str
     age: Optional[int] = None
@@ -22,16 +22,16 @@ class HeroBase(SQLModel):
         }
 
 
-class Hero(HeroBase, table=True):
+class User(UserBase, table=True):
     id: Optional[int] = Field(default=None, primary_key=True)
-    teams: List[Team] = Relationship(back_populates="heroes", link_model=HeroTeamLink)
+    teams: List[Team] = Relationship(back_populates="users", link_model=UserTeamLink)
 
 
-class HeroCreate(HeroBase):
+class UserCreate(UserBase):
     pass
 
 
-class HeroRead(HeroBase):
+class UserRead(UserBase):
     id: int
     name: Optional[str] = None
     secret_name: Optional[str] = None
@@ -39,7 +39,7 @@ class HeroRead(HeroBase):
     teams: List[Team] = None
 
 
-class HeroUpdate(HeroBase):
+class UserUpdate(UserBase):
     name: Optional[str] = None
     secret_name: Optional[str] = None
     age: Optional[int] = None
