@@ -85,4 +85,5 @@ jobs:
         generate_release_notes: true
         files: |
           dist/*
+        github_token: ${{ secrets.GITHUB_TOKEN }}
 
