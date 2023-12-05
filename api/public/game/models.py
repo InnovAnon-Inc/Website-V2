@@ -1,22 +1,19 @@
 from typing import Optional, List
 from sqlmodel import Field, Relationship, SQLModel
 
-from api.public.code.models import Code
 from api.utils.generic_models import GameCodeLink
+from api.public.code.models import Code
 
 
 class GameBase(SQLModel):
     name: str
-    #secret_name: str
-    #age: Optional[int] = None
+    # TODO link to score and badge goals ?
 
     class Config:
         schema_extra = {
             "example": {
                 "id": 1,
                 "name": "Flappy Bird",
-                #"secret_name": "Clark Kent",
-                #"age": 27,
                 "code_id": 12345,
             }
         }
@@ -33,24 +30,18 @@ class GameCreate(GameBase):
 
 class GameRead(GameBase):
     id: int
-    name: Optional[str] = None
-    #secret_name: Optional[str] = None
-    #age: Optional[int] = None
-    #codes: List[Code] = None
+    #name: Optional[str] = None
+    #codes: List = None
 
 
 class GameUpdate(GameBase):
     name: Optional[str] = None
-    #secret_name: Optional[str] = None
-    #age: Optional[int] = None
-    #codes: List[Code] = None
+    codes: List = None
 
     class Config:
         schema_extra = {
             "example": {
                 "name": "Flappy Bird",
-                #"secret_name": "Clark Kent",
-                #"age": 27,
                 "code_id": 12345,
             }
         }

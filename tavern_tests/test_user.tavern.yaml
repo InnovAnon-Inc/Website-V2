@@ -63,6 +63,10 @@ stages:
         secret_name: "Clark Kent"
         age: 28
         team_id: 1
+        code_id: None
+        badge_id: None
+        number_invites: 0
+        unclaimed_codes: 0
 
   - name: Delete a User
     request:
