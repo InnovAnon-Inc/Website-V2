@@ -8,6 +8,8 @@ fastapi = "*"
 sqlmodel = "*"
 uvicorn = "*"
 pydantic_settings = "*"
+psycopg = "*"
+asyncpg = "*"
 
 [dev-packages]
 black = "*"
