@@ -36,7 +36,7 @@ jobs:
         python-version: ${{ matrix.python }}
     - name: Install test dependencies
       #run: python -m pip install -U tox
-      run: pip install -U pytest
+      run: pip install -U pytest pipenv
 
     # TODO this needs to run in background
     #- name: Run
