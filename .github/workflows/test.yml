@@ -40,6 +40,10 @@ jobs:
     - name: Install self
       run: pipenv install --dev #--system --deploy --ignore-pipfile #--${PIPENV_ARGS}
 
+    - name: Configure DB
+      run: |
+        mv -v .env.example .env
+
     # TODO this needs to run in background
     #- name: Run
     #  run:
