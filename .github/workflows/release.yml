@@ -34,14 +34,13 @@
 
 
 name: Release
-permissions:
-  contents: write
 on:
   workflow_dispatch:
   push:
     branches: [ "main" ]
 jobs:
   build:
+    permissions: write-all
     name: build package
     runs-on: ubuntu-latest
     permissions:
@@ -76,12 +75,6 @@ jobs:
     #  working-directory: ${{ github.workspace }}/dist
     #  run: |
     #    find . -mindepth 1 -exec gpg --yes --detach-sig '{}' \;
-
-    - name: Bump version and push tag
-      id:   tag_version
-      uses: mathieudutour/github-tag-action@v6.1
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Release
       uses: softprops/action-gh-release@v1
