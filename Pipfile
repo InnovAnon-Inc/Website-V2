@@ -6,14 +6,15 @@ name = "pypi"
 [packages]
 fastapi = "*"
 sqlmodel = "*"
-uvicorn = "*"
 pydantic_settings = "*"
+uvicorn = "*"
 psycopg = "*"
 asyncpg = "*"
 
 [dev-packages]
 black = "*"
 pylint = "*"
+tavern = "*"
 
 [requires]
 python_version = "3.10"
