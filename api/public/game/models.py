@@ -1,8 +1,8 @@
 from typing import Optional, List
 from sqlmodel import Field, Relationship, SQLModel
 
-from api.utils.generic_models import GameCodeLink
-from api.public.code.models import Code
+#from api.utils.generic_models import GameCodeLink
+#from api.public.code.models import Code
 
 
 class GameBase(SQLModel):
@@ -14,14 +14,15 @@ class GameBase(SQLModel):
             "example": {
                 "id": 1,
                 "name": "Flappy Bird",
-                "code_id": 12345,
+                "code_id": 1,
             }
         }
 
 
 class Game(GameBase, table=True):
     id: Optional[int] = Field(default=None, primary_key=True)
-    codes: List[Code] = Relationship(back_populates="games", link_model=GameCodeLink)
+    #codes: List[Code] = Relationship(back_populates="games", link_model=GameCodeLink)
+    codes: List["Code"] = Relationship(back_populates="game")
 
 
 class GameCreate(GameBase):
@@ -36,12 +37,12 @@ class GameRead(GameBase):
 
 class GameUpdate(GameBase):
     name: Optional[str] = None
-    codes: List = None
+    #codes: List = None
 
     class Config:
         schema_extra = {
             "example": {
                 "name": "Flappy Bird",
-                "code_id": 12345,
+                "code_id": 1,
             }
         }
