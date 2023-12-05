@@ -48,7 +48,7 @@ jobs:
     - name: Test
       #run: python -m tox -e py
       #run: tox
-      run:
+      run: |
         pipenv run python asgi.py &
         pid=$?
         pytest -v tavern_tests/
