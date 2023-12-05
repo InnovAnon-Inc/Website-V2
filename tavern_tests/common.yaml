@@ -3,7 +3,7 @@ name: "FastAPI - SQLModel API"
 description: Common Settings
 
 variables:
-  host: http://localhost:8080
+  host: http://localhost:8000
   user_id: 1
   user_name: "Super Man"
   user_secret_name: "Clark Kent"

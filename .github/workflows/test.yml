@@ -55,6 +55,7 @@ jobs:
       run: |
         pipenv run python asgi.py &
         pid=$?
+        sleep 90 
         pytest -v tavern_tests/
         kill $pid
         wait $pid
