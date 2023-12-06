@@ -291,18 +291,67 @@ SELECT_USERS:str = sqlstr("""SELECT
     unclaimed_codes
 FROM "user"
 """)
+SELECT_USER_BY_ID:str = sqlstr(SELECT_USERS + """
+WHERE id = %s
+""")
+SELECT_USER_BY_NAME:str = sqlstr(SELECT_USERS + """
+WHERE name = %s
+""")
+
+
+from itertools import starmap
+from dataclasses import dataclass
+
+@dataclass
+class User:
+    id:Optional[int]
+    name:str
+    invite_count:Optional[int]
+    unclaimed_codes:Optional[int]
 
 @pgconn
 @typechecked
-async def select_users(conn:PoolConnectionProxy)->List[User]:
-    # TODO
+async def select_users(conn:PoolConnectionProxy, *args:P.args, **kwargs:P.kwargs)->List[User]:
     result:str = await conn.execute(SELECT_USERS)
-    #rows = cursor.fetchall()
-    await logger.ainfo("create code table result: %s", result)
-    return result
+    await logger.ainfo("select users result: %s", result)
+    rows:List[Tuple[int,str,int,int]] = conn.fetchall()
+    users:List[User] = list(starmap(User, rows))
+    return users
+
+@pgconn
+@typechecked
+async def select_user_by_id(conn:PoolConnectionProxy, user_id:int, *args:P.args, **kwargs:P.kwargs)->User:
+    result:str = await conn.execute(SELECT_USER_BY_ID, user_id)
+    await logger.ainfo("select user by id result: %s", result)
+    row:Tuple[int,str,int,int] = conn.fetchone()
+    user:User = User(*row)
+    return user
     
+@pgconn
+@typechecked
+async def select_user_by_name(conn:PoolConnectionProxy, name:str, *args:P.args, **kwargs:P.kwargs)->User:
+    result:str = await conn.execute(SELECT_USER_BY_NAME, name)
+    await logger.ainfo("select user by name result: %s", result)
+    row:Tuple[int,str,int,int] = conn.fetchone()
+    user:User = User(*row)
+    return user
 
+INSERT_USER:str = sqlstr("""INSERT INTO "user" VALUES (%s) RETURNING id""")
 
+@pgconn
+@typechecked
+async def create_user(conn:PoolConnectionProxy, user:User, *args:P.args, **kwargs:P.kwargs)->int:
+    result:str = await conn.execute(INSERT_USER, user.name)
+    await logger.ainfo("create user result: %s", result)
+    user_id:int = conn.fetchone()
+    return user_id
+
+# TODO update user
+
+@pgconn
+@typechecked
+async def delete_user(conn:PoolConnectionProxy, user:User, *args:P.args, **kwargs:P.kwargs)->int:
+    pass
 
 @typechecked
 async def create_app(pool:Pool)->Flask:
