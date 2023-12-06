@@ -292,10 +292,10 @@ SELECT_USERS:str = sqlstr("""SELECT
 FROM "user"
 """)
 SELECT_USER_BY_ID:str = sqlstr(SELECT_USERS + """
-WHERE id = %s
+WHERE id = ?
 """)
 SELECT_USER_BY_NAME:str = sqlstr(SELECT_USERS + """
-WHERE name = %s
+WHERE name = ?
 """)
 
 
@@ -383,7 +383,26 @@ async def create_app(pool:Pool)->Flask:
 
 
 
+@pgconn
+@typechecked
+async def test_user(conn:PoolConnectionProxy, *args:P.args, **kwargs:P.kwargs)->int:
+    user_name:str = "Flappy Player"
+    user:User = User(user_name)
+    user_id:int = create_user(conn, user)
 
+    user1:User = select_user_by_id(conn, user_id)
+    assert user == user1
+
+    user2:User = select_user_by_name(conn, user_name)
+    assert user == user2
+
+    users:List[User] = select_users(conn)
+    assert [user] == users
+
+    delete_user(user_id)
+
+    users2:List[User] = select_users(conn)
+    assert users2 == []
 
 
 
@@ -396,6 +415,9 @@ async def create_app(pool:Pool)->Flask:
 @typechecked
 async def helper(pool:Pool, flask_args:Tuple[Any,...], flask_kwargs:Dict[str,Any], *args:P.args, **kwargs:P.kwargs)->T:
     await create_tables(pool)
+    #
+    await test_user(pool)
+    #
     app:CallableNone = flask(create_app, *flask_args, **flask_kwargs)
     return await app(pool, *args, **kwargs)
 
