@@ -4,7 +4,7 @@ from sqlmodel import Field, Relationship, SQLModel
 from api.utils.generic_models import UserBadgeLink
 
 class BadgeBase(SQLModel):
-    name: str
+    name: str = Field(index=True)
 
     class Config:
         schema_extra = {
@@ -26,7 +26,6 @@ class BadgeCreate(BadgeBase):
 
 class BadgeRead(BadgeBase):
     id: int
-    #name: Optional[str] = None
     #users: List = None
 
 

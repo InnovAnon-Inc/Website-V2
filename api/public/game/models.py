@@ -6,7 +6,7 @@ from sqlmodel import Field, Relationship, SQLModel
 
 
 class GameBase(SQLModel):
-    name: str
+    name: str = Field(index=True)
     # TODO link to score and badge goals ?
 
     class Config:
@@ -21,7 +21,6 @@ class GameBase(SQLModel):
 
 class Game(GameBase, table=True):
     id: Optional[int] = Field(default=None, primary_key=True)
-    #codes: List[Code] = Relationship(back_populates="games", link_model=GameCodeLink)
     codes: List["Code"] = Relationship(back_populates="game")
 
 
@@ -31,13 +30,12 @@ class GameCreate(GameBase):
 
 class GameRead(GameBase):
     id: int
-    #name: Optional[str] = None
     #codes: List = None
 
 
 class GameUpdate(GameBase):
     name: Optional[str] = None
-    #codes: List = None
+    codes: List = None
 
     class Config:
         schema_extra = {
