@@ -6,8 +6,9 @@ variables:
   host: http://localhost:8000
   user_id: 1
   user_name: "Super Man"
-  user_secret_name: "Clark Kent"
-  user_age: 27
-  team_id: 1
-  team_name: "wonderful league"
-  team_headquarters: "Fortress of Solitude"
+  game_id: 1
+  game_name: "Flappy Bird"
+  badge_id: 1
+  badge_name: "Flight 69"
+  code_id: 1
+  code_secret: "abc213"

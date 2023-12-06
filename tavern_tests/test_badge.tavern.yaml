@@ -1,0 +1,69 @@
+---
+test_name: Badge Tests
+includes:
+  - !include common.yaml
+
+stages:
+  - name: Create a Badge
+    request:
+      method: POST
+      url: "{host}/badges"
+      json:
+        id: 1
+        name: "Flight 69"
+    response:
+      status_code: 200
+      json:
+        id: 1
+        name: "Flight 69"
+  
+  - name: Get a Badge
+    request:
+      method: GET 
+      url: "{host}/badges/1"
+    response:
+      status_code: 200
+      json:
+        id: 1
+        name: "Flight 69"
+  
+  - name: Get a Badge - Not Found
+    request:
+      method: GET 
+      url: "{host}/badges/99"
+    response:
+      status_code: 404
+      json: 
+        detail: "Badge not found with id: 99"
+  
+  - name: Get Badges
+    request:
+      method: GET 
+      url: "{host}/badges"
+      params:
+        offset: 0
+        limit: 100
+    response:
+      status_code: 200
+      json: []
+  
+  - name: Update a Badge
+    request:
+      method: PATCH 
+      url: "{host}/badges/1"
+      json:
+        name: "Flight 69"
+        uesr_id: 1
+    response:
+      status_code: 200
+      json:
+        id: 1
+        name: "Flight 69"
+
+  - name: Delete a Badge
+    request:
+      method: DELETE 
+      url: "{host}/badges/1"
+    response:
+      json:
+        ok: true

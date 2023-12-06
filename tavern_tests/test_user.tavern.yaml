@@ -11,12 +11,16 @@ stages:
       json:
         id: 1
         name: "Super Man"
-        secret_name: "Clark Kent"
-        age: 27
-        team_id: 1
+        number_invites: 0
+        unclaimed_codes: 0
     response:
       status_code: 200
-      json: {}
+      json:
+        id: 1
+        name: "Super Man"
+        number_invites: 0
+        unclaimed_codes: 0
+        badges: []
   
   - name: Get a User
     request:
@@ -35,7 +39,7 @@ stages:
       json: 
         detail: "User not found with id: 99"
   
-  - name: Get a User
+  - name: Get Users
     request:
       method: GET 
       url: "{host}/users"
@@ -52,21 +56,18 @@ stages:
       url: "{host}/users/1"
       json:
         name: "Super Man"
-        secret_name: "Clark Kent"
-        age: 28
-        team_id: 1
+        code_id: 1
+        badge_id: 1
     response:
       status_code: 200
       json:
         id: 1
         name: "Super Man"
-        secret_name: "Clark Kent"
-        age: 28
-        team_id: 1
-        code_id: None
-        badge_id: None
         number_invites: 0
         unclaimed_codes: 0
+        badges:
+          - id: 1
+            name: "Flight 69"
 
   - name: Delete a User
     request:

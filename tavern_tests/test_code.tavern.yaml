@@ -1,0 +1,82 @@
+---
+test_name: Code Tests
+includes:
+  - !include common.yaml
+
+stages:
+  - name: Create a Code
+    request:
+      method: POST
+      url: "{host}/codes"
+      json:
+        remaining: 10
+        secret: "abc123"
+        user_id: 1
+        game_id: 1
+    response:
+      status_code: 200
+      json:
+        remaining: 10
+        id: 1
+        secret: "abc123"
+        user_id: 1
+        game_id: 1
+  
+  - name: Get a Code
+    request:
+      method: GET 
+      url: "{host}/codes/1"
+    response:
+      status_code: 200
+      json:
+        id: 1
+        remaining: 10
+        secret: "abc123"
+        user_id: 1
+        game_id: 1
+  
+  - name: Get a Code - Not Found
+    request:
+      method: GET 
+      url: "{host}/codes/99"
+    response:
+      status_code: 404
+      json: 
+        detail: "Code not found with id: 99"
+  
+  - name: Get Codes
+    request:
+      method: GET 
+      url: "{host}/codes"
+      params:
+        offset: 0
+        limit: 100
+    response:
+      status_code: 200
+      json: []
+  
+  - name: Update a Code
+    request:
+      method: PATCH 
+      url: "{host}/codes/1"
+      json:
+        remaining: 10
+        secret: "abc123"
+        user_id: 1
+        game_id: 1
+    response:
+      status_code: 200
+      json:
+        id: 1
+        remaining: 10
+        secret: "abc123"
+        user_id: 1
+        game_id: 1
+
+  - name: Delete a Code
+    request:
+      method: DELETE 
+      url: "{host}/codes/1"
+    response:
+      json:
+        ok: true

@@ -1,0 +1,69 @@
+---
+test_name: Game Tests
+includes:
+  - !include common.yaml
+
+stages:
+  - name: Create a Game
+    request:
+      method: POST
+      url: "{host}/games"
+      json:
+        id: 1
+        name: "Flappy Bird"
+    response:
+      status_code: 200
+      json:
+        id: 1
+        name: "Flappy Bird"
+  
+  - name: Get a Game
+    request:
+      method: GET 
+      url: "{host}/games/1"
+    response:
+      status_code: 200
+      json:
+        id: 1
+        name: "Flappy Bird"
+  
+  - name: Get a Game - Not Found
+    request:
+      method: GET 
+      url: "{host}/games/99"
+    response:
+      status_code: 404
+      json: 
+        detail: "Game not found with id: 99"
+  
+  - name: Get Games
+    request:
+      method: GET 
+      url: "{host}/games"
+      params:
+        offset: 0
+        limit: 100
+    response:
+      status_code: 200
+      json: []
+  
+  - name: Update a Game
+    request:
+      method: PATCH 
+      url: "{host}/games/1"
+      json:
+        name: "Flappy Bird"
+        code_id: 1
+    response:
+      status_code: 200
+      json:
+        id: 1
+        name: "Flappy Bird"
+
+  - name: Delete a Game
+    request:
+      method: DELETE 
+      url: "{host}/games/1"
+    response:
+      json:
+        ok: true
