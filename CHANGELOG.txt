@@ -1,0 +1,2340 @@
+
+[productivity.sh]: Wed Dec  6 00:00:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:01:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:02:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:03:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:04:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:05:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:06:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:07:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:08:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:09:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:10:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:11:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:12:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:13:02 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:14:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:15:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:16:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:17:02 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:18:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:19:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:20:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:21:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:22:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:23:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:24:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:25:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:26:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:27:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:28:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:29:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:30:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:31:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:32:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:33:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:34:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:35:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:36:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:37:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:38:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:39:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:40:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:41:02 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:42:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:43:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:44:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:45:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:46:02 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:47:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:48:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:49:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:50:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:51:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:52:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:53:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:54:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:55:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:56:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:57:02 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:58:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
+
+[productivity.sh]: Wed Dec  6 00:59:01 CST 2023
+commit 19042af6d74ba6a4510063827077bb5fe7fdec99
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 23:17:31 2023 -0600
+
+    f it
+
+commit 3e3a32f88ad1d437f9f955f58fb542af1f9efe76
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 19:27:33 2023 -0600
+
+    backup
+
+commit f3cec5ad66123c4f9fbecd861224bcde4f8395d1
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 18:35:07 2023 -0600
+
+    backup
+
+commit c1f239f8776d7f67053a2e831dac71d4e4074ed4
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:46:17 2023 -0600
+
+    gitignore
+
+commit f9f431cb15718496808015b7b9d81961f6312a01
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 16:45:40 2023 -0600
+
+    backup
+
+commit e86ca677bcde1b5980b2c9cc9b30615aba32125e
+Author: jichi <Jichi.Guo@gmail.com>
+Date:   Tue Dec 5 15:40:08 2023 -0600
+
+    backup
+
+--------------------
