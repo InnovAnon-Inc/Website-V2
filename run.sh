@@ -2,8 +2,7 @@
 set -euxo nounset -o pipefail
 exec 0>&-
 (( UID ))
-(( ! $# )
-)
+(( ! $# ))
 [[ -e .env ]]
 export $(cat .env)
 

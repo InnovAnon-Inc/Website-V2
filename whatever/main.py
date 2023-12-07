@@ -340,19 +340,18 @@ async def select_user_by_name(conn:PoolConnectionProxy, name:str, *args:P.args, 
     return user
 
 #INSERT_USER:str = (#sqlstr(
-##"""INSERT INTO "user" VALUES (name) (?) RETURNING id
 #"""INSERT INTO "user" (name)
-#VALUES (%s)
+#VALUES ('?') RETURNING id
 #""")
 
 @pgconn
 @typechecked
 async def create_user(conn:PoolConnectionProxy, user:User, *args:P.args, **kwargs:P.kwargs)->int:
     #conn.initialize(logger)
-    await logger.adebug('INSERT_USER: %s', INSERT_USER)
+    #await logger.adebug('INSERT_USER: %s', INSERT_USER)
     await logger.adebug('user: %s', user)
     #result:str = await conn.execute(INSERT_USER, (user.name,))
-    result:str = await conn.execute("""INSERT INTO "user" (name) VALUES ("""+user.name+""")""")
+    result:str = await conn.execute("""INSERT INTO "user" (name) VALUES ('"""+user.name+"""')""")
     await logger.ainfo("create user result: %s", result)
     user_id:int = conn.fetchone()
     return user_id
