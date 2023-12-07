@@ -8,6 +8,7 @@ from typing import Tuple
 from typing import Dict
 from typing import Callable
 from typing import Union
+from typing import Optional
 
 from flask import Flask, request, jsonify
 from typeguard import typechecked
@@ -291,11 +292,13 @@ SELECT_USERS:str = sqlstr("""SELECT
     unclaimed_codes
 FROM "user"
 """)
-SELECT_USER_BY_ID:str = sqlstr(SELECT_USERS + """
-WHERE id = ?
+SELECT_USER_BY_ID:str = (#sqlstr(
+SELECT_USERS + """
+WHERE id = %s
 """)
-SELECT_USER_BY_NAME:str = sqlstr(SELECT_USERS + """
-WHERE name = ?
+SELECT_USER_BY_NAME:str = (#sqlstr(
+SELECT_USERS + """
+WHERE name = %s
 """)
 
 
@@ -336,12 +339,19 @@ async def select_user_by_name(conn:PoolConnectionProxy, name:str, *args:P.args, 
     user:User = User(*row)
     return user
 
-INSERT_USER:str = sqlstr("""INSERT INTO "user" VALUES (%s) RETURNING id""")
+INSERT_USER:str = (#sqlstr(
+#"""INSERT INTO "user" VALUES (name) (?) RETURNING id
+"""INSERT INTO "user" (name)
+VALUES (%s)
+""")
 
 @pgconn
 @typechecked
 async def create_user(conn:PoolConnectionProxy, user:User, *args:P.args, **kwargs:P.kwargs)->int:
-    result:str = await conn.execute(INSERT_USER, user.name)
+    #conn.initialize(logger)
+    await logger.adebug('INSERT_USER: %s', INSERT_USER)
+    await logger.adebug('user: %s', user)
+    result:str = await conn.execute(INSERT_USER, (user.name,))
     await logger.ainfo("create user result: %s", result)
     user_id:int = conn.fetchone()
     return user_id
@@ -383,25 +393,26 @@ async def create_app(pool:Pool)->Flask:
 
 
 
-@pgconn
+#@pgconn
 @typechecked
-async def test_user(conn:PoolConnectionProxy, *args:P.args, **kwargs:P.kwargs)->int:
+#async def test_user(conn:PoolConnectionProxy, *args:P.args, **kwargs:P.kwargs)->int:
+async def test_user(conn:Pool, *args:P.args, **kwargs:P.kwargs)->int:
     user_name:str = "Flappy Player"
-    user:User = User(user_name)
-    user_id:int = create_user(conn, user)
+    user:User = User(None, user_name, None, None)
+    user_id:int = await create_user(conn, user)
 
-    user1:User = select_user_by_id(conn, user_id)
+    user1:User = await select_user_by_id(conn, user_id)
     assert user == user1
 
-    user2:User = select_user_by_name(conn, user_name)
+    user2:User = await select_user_by_name(conn, user_name)
     assert user == user2
 
-    users:List[User] = select_users(conn)
+    users:List[User] = await select_users(conn)
     assert [user] == users
 
     delete_user(user_id)
 
-    users2:List[User] = select_users(conn)
+    users2:List[User] = await select_users(conn)
     assert users2 == []
 
 
